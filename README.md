@@ -1,6 +1,6 @@
 # Remote-Controlled-Robotic-Platfrom
 Remote Controlled Robotic Platfrom that utlises the Parallex Propellor Board.
-![Uploading proj1litekit.png…]()
+![proj1litekit](https://github.com/2201512/Remote-Controlled-Robotic-Platfrom/assets/114372999/b5683c5c-3878-403b-a52a-c0c13ef40866)
 
 Completely remote controlled thorugh Wifi (Zigbee Controller)
 
