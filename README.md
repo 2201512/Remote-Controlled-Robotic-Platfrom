@@ -1,6 +1,7 @@
 # Remote-Controlled-Robotic-Platfrom
 Remote Controlled Robotic Platfrom that utlises the Parallex Propellor Board.
 ![Uploading proj1litekit.png…]()
+
 Completely remote controlled thorugh Wifi (Zigbee Controller)
 
 Motor Driven Using RoboClaw.
@@ -14,8 +15,10 @@ E-Stop for additional Layer of Safety.
 
 
 ───────────────────────────────────────
+
 File can be formated as such
 ───────────────────────────────────────
+
     Tool :  Propeller Tool version 2.7.0 (Beta)
 
 
@@ -53,6 +56,4 @@ File can be formated as such
 
 
 ────────────────────
-Parallax Inc.
-www.parallax.com
-support@parallax.com
+
